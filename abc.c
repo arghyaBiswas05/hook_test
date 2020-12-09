@@ -3,9 +3,7 @@
 
 #include <stdio.h>
 
-int main(void)
-
-{
-	printf("wokring\n");
+int main() {
+	printf("wokring \n");
 	return 0;
 }
